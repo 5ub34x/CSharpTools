@@ -21,6 +21,8 @@ Collection of useful C# Tools for offensive assessments.
 
 [SharpHound](https://github.com/BloodHoundAD/SharpHound3) C# Rewrite of the BloodHound Ingestor.
 
+[SauronEye](https://github.com/vivami/SauronEye) Search tool built to aid red teams in finding files containing specific keywords.
+
 ## Lateral Movement
 
 [SharpWMI](https://github.com/GhostPack/SharpWMI) C# implementation of various WMI functionality.
