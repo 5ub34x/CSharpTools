@@ -13,6 +13,12 @@ Collection of useful C# Tools for offensive assessments.
 
 [SharpUp](https://github.com/GhostPack/SharpUp) C# port of various PowerUp functionality.
 
+[Watson](https://github.com/rasta-mouse/Watson) Enumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilities.
+
+## Defence Evasion
+
+[RemoteProcessInjection](https://github.com/Mr-Un1k0d3r/RemoteProcessInjection) C# remote process injection utility for Cobalt Strike.
+
 ## Discovery
 
 [SharpView](https://github.com/tevora-threat/SharpView) C# implementation of harmj0y's PowerView.
@@ -47,12 +53,16 @@ Collection of useful C# Tools for offensive assessments.
 
 [Net-GPPPassword](https://github.com/outflanknl/Net-GPPPassword) .NET implementation of Get-GPPPassword.
 
-## Defence Evasion
+## Collection
 
-[RemoteProcessInjection](https://github.com/Mr-Un1k0d3r/RemoteProcessInjection) C# remote process injection utility for Cobalt Strike.
+[WireTap](https://github.com/djhohnstein/WireTap) .NET 4.0 Project to interact with video, audio and keyboard hardware.
 
-## Collections
+## Other Collections
 
 [RedTeamCSharpScripts](https://github.com/Mr-Un1k0d3r/RedTeamCSharpScripts) C# Scripts used for Red Team Assessments.
 
 [OffensiveCSharp](https://github.com/matterpreter/OffensiveCSharp) Collection of Offensive C# Tooling.
+
+[HastySeries](https://github.com/obscuritylabs/HastySeries) ObscurityLabs RedTeam C# Toolkit.
+
+[cobalt_strike_extension_kit](https://github.com/josephkingstone/cobalt_strike_extension_kit) Tired of typing execute-assembly everytime you use Cobalt Strike? Clone this.
