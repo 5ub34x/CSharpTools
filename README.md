@@ -57,6 +57,10 @@ Collection of useful C# Tools for offensive assessments.
 
 [WireTap](https://github.com/djhohnstein/WireTap) .NET 4.0 Project to interact with video, audio and keyboard hardware.
 
+## Exfiltration
+
+[MiddleOut](https://github.com/FortyNorthSecurity/MiddleOut) A small .NET compression utility.
+
 ## Other Collections
 
 [RedTeamCSharpScripts](https://github.com/Mr-Un1k0d3r/RedTeamCSharpScripts) C# Scripts used for Red Team Assessments.
