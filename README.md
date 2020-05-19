@@ -55,6 +55,8 @@ Collection of useful C# Tools for offensive assessments.
 
 [SharpRDP](https://github.com/0xthirteen/SharpRDP) Remote Desktop Protocol .NET Console Application for Authenticated Command Execution.
 
+[SharpRDPCheck](https://github.com/3gstudent/SharpRDPCheck) Use to check the valid account of the Remote Desktop Protocol (Supports plaintext and NTLM hash)
+
 [SharpMove](https://github.com/0xthirteen/SharpMove) .NET Project for performing Authenticated Remote Execution.
 
 ## Collection (TA0009)
