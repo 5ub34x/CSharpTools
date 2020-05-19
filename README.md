@@ -23,6 +23,8 @@ Collection of useful C# Tools for offensive assessments.
 
 [SharpCompile](https://github.com/SpiderLabs/SharpCompile) SharpCompile is an Aggressor script for Cobalt Strike which allows you to compile and execute C# in realtime.
 
+[BlockETW](https://github.com/Soledge/BlockEtw) .Net 3.5 / 4.5 Assembly to block ETW telemetry in a process.
+
 ## Credential Access (TA0006)
 
 [SharpWeb](https://github.com/djhohnstein/SharpWeb) Retrieve saved logins from Google Chrome, Firefox, Internet Explorer and Microsoft Edge.
@@ -55,7 +57,7 @@ Collection of useful C# Tools for offensive assessments.
 
 [SharpRDP](https://github.com/0xthirteen/SharpRDP) Remote Desktop Protocol .NET Console Application for Authenticated Command Execution.
 
-[SharpRDPCheck](https://github.com/3gstudent/SharpRDPCheck) Use to check the valid account of the Remote Desktop Protocol (Supports plaintext and NTLM hash)
+[SharpRDPCheck](https://github.com/3gstudent/SharpRDPCheck) Use to check the valid account of the Remote Desktop Protocol (Supports plaintext and NTLM hash).
 
 [SharpMove](https://github.com/0xthirteen/SharpMove) .NET Project for performing Authenticated Remote Execution.
 
