@@ -41,6 +41,8 @@ Collection of useful C# Tools for offensive assessments.
 
 [Net-GPPPassword](https://github.com/outflanknl/Net-GPPPassword) .NET implementation of Get-GPPPassword.
 
+[Internal-Monologue](https://github.com/eladshamir/Internal-Monologue) Retrieving NTLM Hashes without Touching LSASS.
+
 ## Discovery (TA0007)
 
 [SharpView](https://github.com/tevora-threat/SharpView) C# implementation of harmj0y's PowerView.
